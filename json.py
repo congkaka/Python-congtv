@@ -46,12 +46,11 @@ student2 = [
 #   json.dump(student, file, indent= 4)
 
 
-with open('data1.json', mode='r') as file:
+with open('data.json', mode='r') as file:
   jsonFile = json.load(file)
-  # json.dump(student2, file, indent= 4)
-  # print(jsonFile)
+  
 
   jsonFile.extend(student2)
 
-with open('data1.json', mode='w') as file:
+with open('data.json', mode='w') as file:
   json.dump(jsonFile, file, indent=1)

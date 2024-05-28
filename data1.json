@@ -1,0 +1,28 @@
+[
+ {
+  "name": "Van Cong 1",
+  "age": "28",
+  "address": "Tb",
+  "phone": "034757968"
+ },
+ {
+  "name": "Congkaka 1",
+  "age": "29",
+  "address": "Tb",
+  "phone": "0972006977"
+ },
+ [
+  {
+   "name": "Van Cong 1",
+   "age": "28",
+   "address": "Tb",
+   "phone": "034757968"
+  },
+  {
+   "name": "Congkaka 1",
+   "age": "29",
+   "address": "Tb",
+   "phone": "0972006977"
+  }
+ ]
+]
